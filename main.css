@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: azure;
+}
+.card{
+    background-color: black;
+  
+ 
+    
+    
+}
+.row{
+    padding-top:150px;
+    padding-left:100px;
+    padding-right:100px;
+}
+.card2{
+    padding-left:250px;
+}
+.card-body{
+    padding-top:100px;
+}
+.card-img-top {
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+}
